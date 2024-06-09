@@ -22,7 +22,7 @@ from streamlit_extras.stylable_container import stylable_container
 # from imblearn.over_sampling import SMOTE
 # from sklearn.experimental import enable_iterative_imputer
 # from sklearn.impute import IterativeImputer
-import kaleido
+# import kaleido
 
 
 st.set_page_config(page_title="AI Model Analysis",layout="wide")
