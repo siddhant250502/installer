@@ -1,0 +1,47 @@
+#MainMenu {    visibility: hidden;    }
+footer {    visibility: hidden;    }
+header{    visibility: hidden;}
+div.st-emotion-cache-1629p8f h1{
+    font-size: 16px;
+    padding: 15px 0px;
+}
+div.dvn-underlay.canvas table tbody tr td:fist-child{
+    background-color: #f6fbff !important;
+}
+div.st-emotion-cache-ms8dc9{
+    padding:10px;
+}
+div.block-container.st-emotion-cache-z5fcl4 {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 50px;
+}
+div.ag-header-row.ag-header-row-column{
+    color: green;
+}
+div.st-emotion-cache-138t0cn.e1f1d6gn2{
+    gap:5px;
+    }
+    div.st-emotion-cache-1rsb481.e1f1d6gn2{
+        gap: 5px;
+    }
+    div.st-emotion-cache-13swq0i.e1f1d6gn2{
+        gap:5px;
+    }
+    div.container-xxl.d-flex.flex-column.flex-shrink-0.p-h.nav-justified{
+        margin: 0;
+    }
+    /* div.e1f1d6gn3{
+        align-content: end;
+    } */
+li.nav-item{
+flex-grow:0;
+white-space: nowrap;
+}
+div.st-emotion-cache-137f866{
+    border:none;
+    padding: 5px 0px;
+}
+.ag-theme-material .ag-checkbox-input-wrapper.ag-checked::after {
+    color: #30B9EF !important;
+  }
