@@ -4,7 +4,7 @@ st.set_page_config(page_title="AI Model Analysis",layout="wide")
 from pages import page_1, page_2
 import toml
 
-with open('style.css') as f:
+with open('styles/style.css') as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 hide_streamlit_style = """
